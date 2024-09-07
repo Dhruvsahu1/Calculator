@@ -1,3 +1,6 @@
 [submodule "calculator"]
 	path = calculator
 	url = https://github.com/Dhruvsahu1/Calculator.git
+[submodule "codsoft"]
+	path = codsoft
+	url = https://github.com/Dhruvsahu1/codsoft.git
